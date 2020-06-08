@@ -2,7 +2,7 @@
 The project explores the emerging automatic identification technology to facilitate fast issuing, renewing and returning of books with the help of RFID enabled modules. The proposed system will automate the following tasks using RFID technology :
 
 1. To remove manual book keeping of library records. 
-2. Managing the access of only particular number of books at a time by a student.
+2. Managing the access of only a particular number of books at a given time by any student.
 3. Searching a particular book to check its presence in the library.
 4. Locating the physical location (rack/shelf number) of the book in the library.
 5. Traceability of book allocation on the shelves to avoid misplacement or missing books in the library.
